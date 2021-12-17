@@ -1,0 +1,15 @@
+G:\Ankit\Tracer.API\Tracer.API.Helper\bin\Debug\net5.0\Tracer.API.Helper.deps.json
+G:\Ankit\Tracer.API\Tracer.API.Helper\bin\Debug\net5.0\Tracer.API.Helper.dll
+G:\Ankit\Tracer.API\Tracer.API.Helper\bin\Debug\net5.0\ref\Tracer.API.Helper.dll
+G:\Ankit\Tracer.API\Tracer.API.Helper\bin\Debug\net5.0\Tracer.API.Helper.pdb
+G:\Ankit\Tracer.API\Tracer.API.Helper\bin\Debug\net5.0\Tracer.API.Domain.dll
+G:\Ankit\Tracer.API\Tracer.API.Helper\bin\Debug\net5.0\Tracer.API.Domain.pdb
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\Tracer.API.Helper.csproj.AssemblyReference.cache
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\Tracer.API.Helper.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\Tracer.API.Helper.AssemblyInfoInputs.cache
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\Tracer.API.Helper.AssemblyInfo.cs
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\Tracer.API.Helper.csproj.CoreCompileInputs.cache
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\Tracer.API.Helper.csproj.CopyComplete
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\Tracer.API.Helper.dll
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\ref\Tracer.API.Helper.dll
+G:\Ankit\Tracer.API\Tracer.API.Helper\obj\Debug\net5.0\Tracer.API.Helper.pdb
